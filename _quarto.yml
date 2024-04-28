@@ -6,7 +6,7 @@ website:
   title: "Elizabeth Schultheis"
   navbar:
       left: 
-      - href: cv/index.qmd
+      - cv/index.qmd
       right:
       - blog.qmd
       - icon: github
