@@ -1,12 +1,12 @@
 ---
 title: "Welcome to My Website!"
-image: profile.jpg
+image: headshot.JPEG
 about:
   template: jolla
   links:
     - icon: email
       text: Email
-      href: elizabethschultheis17@gmail.com
+      href: "mailto:elizabethschultheis17@gmail.com"
     - icon: linkedin
       text: LinkedIn
       href: www.linkedin.com/in/elizabeth-schultheis-938772203
@@ -15,4 +15,7 @@ about:
       href: https://github.com
 ---
 
-About this blog
+
+Elizabeth Schultheis is an MS student in Biostatistics at Case Western Reserve University. Her work focuses on study design and analysis, both quantitative and qualitative, within psychology and the social sciences. 
+
+Please feel free to contact me if you have any questions or would like to discuss potential projects!

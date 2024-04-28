@@ -1,0 +1,14 @@
+{
+  "hash": "1caa8dfdf015c15048dfac3100f1d044",
+  "result": {
+    "markdown": "---\nlayout: page\ntitle: Curriculum vitae\nexcerpt: My Current CV\nexecute:\n  freeze: true  \nengine: knitr \nresources:\n  - \"es_cv.pdf\"\ncv:\n  pdf: \"es_cv.pdf\"\n---",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
